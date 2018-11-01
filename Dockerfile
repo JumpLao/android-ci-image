@@ -12,7 +12,7 @@ ENV ANDROID_SDK_URL="https://dl.google.com/android/repository/sdk-tools-linux-38
     RUBY_VERSION=2.2.8 \
     RUBY_DOWNLOAD_SHA256=8f37b9d8538bf8e50ad098db2a716ea49585ad1601bbd347ef84ca0662d9268a \
     RUBYGEMS_VERSION=2.7.2 \
-    FASTLANE_VERSION=2.64.0 \
+    FASTLANE_VERSION=2.107.0 \
     YARN_VERSION=1.3.2 \
     NODE_VERSION=9.3.0
 
